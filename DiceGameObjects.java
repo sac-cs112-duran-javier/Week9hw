@@ -82,3 +82,5 @@ public class DiceGameObjects {
 	}
 
 }
+
+// Please explain how public class DiceGameObjects is used...this looks very similar to another student's
